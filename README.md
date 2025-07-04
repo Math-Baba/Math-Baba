@@ -3,7 +3,7 @@
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRidzU3bHVlZ2QzZjFvNDR5b241andjMzRlczVrZjEwYnZ5aDAxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 <div align="left">
-  <p>🎓 Étudiant en 2e année d'informatique<br>💻 Passionné de développement de solutions digitales, d’IA et de robotique<br>🚀 Toujours en quête d'apprentissage</p>
+  <p>🎓 Étudiant en 2e année d'informatique<br>💻 Mes intérêts dans la Tech ? Tout simplement le développement de solutions digitales, d’IA et de robotique<br>🚀 Toujours en quête d'apprentissage</p>
 </div>
 
 ## Mes technos
