@@ -1,5 +1,7 @@
-<img align="left" height="300" width="200" src="logo.gif"/>
-<img align="right" height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxMjRwNDFnYndpOXFxZWxlZmN5dW10aTRtenpncmh2anpmc2IzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
+<div align="center">
+  <img height="300" width="200" src="logo.gif"/>
+  <img height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxMjRwNDFnYndpOXFxZWxlZmN5dW10aTRtenpncmh2anpmc2IzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
+</div>
 
 
 <h2 align="left">Salut 👋 ! Je m'appelle Mathieu, étudiant en Computer Science </h2>
