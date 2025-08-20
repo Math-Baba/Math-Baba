@@ -1,4 +1,4 @@
-<img align="center" height="200" width="300" src="logo.gif"/>
+<img align="center" height="300" width="200" src="logo.gif"/>
 
 <h2 align="left">Salut 👋 ! Je m'appelle Mathieu, étudiant en Computer Science </h2>
 
