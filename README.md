@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="200" src="logo.gif"/>
+  <img height="300" width="200" src="logo.gif" style="margin-right: 30px;"/>
   <img height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxMjRwNDFnYndpOXFxZWxlZmN5dW10aTRtenpncmh2anpmc2IzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
 </div>
 
@@ -36,6 +36,11 @@
 
 
 <br clear="both">
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="400" />
+</div>
 
 
 
