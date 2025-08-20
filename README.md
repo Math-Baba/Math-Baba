@@ -1,8 +1,8 @@
-<img align="center" height="300" width="200" src="logo.gif"/>
+<img align="left" height="300" width="200" src="logo.gif"/>
+<img align="right" height="200" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhxMjRwNDFnYndpOXFxZWxlZmN5dW10aTRtenpncmh2anpmc2IzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"/>
+
 
 <h2 align="left">Salut 👋 ! Je m'appelle Mathieu, étudiant en Computer Science </h2>
-
-<img align="right" height="150" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRidzU3bHVlZ2QzZjFvNDR5b241andjMzRlczVrZjEwYnZ5aDAxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 <div align="left">
   <p>🎓 Étudiant en 3e année d'informatique<br>💻 Mes intérêts dans la Tech ? Tout simplement le développement de solutions digitales, d’IA et de robotique<br>🚀 Toujours en quête d'apprentissage</p>
