@@ -38,6 +38,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="400" />
 </div>
 
-![Math-Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&hide_title=false&count_private=true&theme=radical)
+---
 
+
+<div align="center">
+![Math-Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&hide_title=false&count_private=true&theme=radical)
+</div>
 
