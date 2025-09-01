@@ -31,9 +31,6 @@
   <a href="https://www.linkedin.com/in/mathieubaba" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-
-
-
 <br clear="both">
 ---
 
@@ -41,6 +38,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake gif" width="400" />
 </div>
 
-
+![Math-Baba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&hide_title=false&count_private=true&theme=radical)
 
 
