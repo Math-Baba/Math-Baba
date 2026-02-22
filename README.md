@@ -74,7 +74,7 @@ print(moi)
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Math-Baba&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Math-Baba&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&locale=fr" />
 
 </div>
 
