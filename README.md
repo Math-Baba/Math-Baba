@@ -76,11 +76,6 @@ print(moi)
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Baba&layout=compact&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa" />
-
-<br/><br/>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Math-Baba&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 </div>
