@@ -3,11 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mathieu%20Baba&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Ingénierie%20Logicielle%20%7C%20Intelligence%20Artificielle%20%7C%20Robotique&descAlignY=55&descSize=18&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=Construire+le+futur%2C+un+commit+à+la+fois+%F0%9F%9A%80;Passionné+par+l'IA+%7C+la+Robotique+%7C+le+Génie+Logiciel;Étudiant+en+3ème+année+d'Informatique+%F0%9F%8E%93" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Badges de contact -->
@@ -78,14 +73,15 @@ print(moi)
 
 ## Statistiques GitHub
 
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&locale=fr" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Baba&layout=compact&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa&locale=fr" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Math-Baba&show_icons=true&count_private=true&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Baba&layout=compact&theme=tokyonight&border_radius=12&border_color=7c3aed&title_color=a78bfa" />
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Math-Baba&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&locale=fr" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Math-Baba&theme=tokyonight&border_radius=12&border=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
 
 </div>
 
