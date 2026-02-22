@@ -7,8 +7,6 @@
 
 <!-- Badges de contact -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Math-Baba&style=for-the-badge&color=7c3aed&label=VUES+DU+PROFIL" alt="Vues du profil"/>
-  &nbsp;
   <a href="mailto:mathieu.rl.baba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
